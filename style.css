@@ -4,7 +4,9 @@
 }
 
 body{
-    font-family: "Poppins", sans-serif; peso da fonte: 700; estilo da fonte: itálico; 
+    font-family: "Poppins", sans-serif; 
+    font-weight: 700; 
+    font-style: normal; 
 }
 
 .cabecalho{
@@ -27,7 +29,7 @@ body{
 }
 
 .escola-imagem{
-    width: 150px;
+    width: 450px;
 }
 
 .escola{
@@ -59,6 +61,7 @@ body{
 
 .estudantes-div{
     text-align: center;
+    align-items: center;
 }
 
 .estudantes-titulo{
